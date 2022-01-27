@@ -1,0 +1,48 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2016/06/28/01/42/chess-1483735_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width:fit-content;
+    max-width: initial;
+    margin: auto; 
+   }
+    
+       
+img.unique{
+    border:10px solid;
+    border-radius: 50%;
+}
+
+
+h1{
+   font-family:"Sofia";
+   text-align: center;
+   font-size: 40px;
+}
+
+h2{
+    font-size: 30px;
+ }
+
+ h3{
+    font-size: 30px;
+ }
+
+ h4{
+    font-size: 30px;
+
+ }
+
+ h5{
+    font-size: 30px;
+
+ }
+
+ h6{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
